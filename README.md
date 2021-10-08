@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tvaitilas
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, JS, Nodejs, PHP, MongoDB, MySQL.
+- 🌱 I’m currently learning HTML, CSS, JavaSript, Node.js, PHP, MongoDB, MySQL.
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: tvaitilas@gmail.com
 
